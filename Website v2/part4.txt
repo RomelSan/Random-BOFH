@@ -1,0 +1,5 @@
+Error
+Problem
+Warning
+Signal
+Flag

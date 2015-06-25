@@ -1,0 +1,499 @@
+Velocidad del reloj demasiado lenta
+Llamaradas solares
+Radiacion electromagnetica proveniente del satelite Debris
+Estatica producida por ropa interior de nylon
+Estatica producida por reglas de cálculo de plastico
+Calentamiento Global
+Acondicionamiento de energia pobre
+Carga electroestatica
+Efecto Doppler
+Fracturas por stress en el hardware
+Interferencias magneticas producidas por monedas y/o tarjetas de credito
+Conexiones secas en el enchufe
+Estamos esperando que Telefonica arregle esa linea
+Suena a un error de Microsoft, prueba a llamar al soporte de Microsoft
+Anomalia temporal en el enrutado
+Alguien esta calculando el numero PI en el servidor
+Electrones gordos en las lineas
+Proteccion de oleadas de excesos
+Desbordamiento del procesador de punto flotante
+Error: dividir-entre-cero
+Problemas de cumplimiento del estandar POSIX
+Resolucion del monitor demasiado alta
+Teclado incorrectamente orientado
+Paquetes de red viajando cuesta arriba (pruebe con una paloma mensajera)
+Flujo de electrones decreciente
+Es el primer sabado despues de la primera luna llena de Invierno
+Agotamiento radiositico
+Radiador de la CPU roto
+Funciona como lo hizo Wang, cual es el problema?
+Mal funcionamiento del router de positrones
+Interferencias producidas por telefonos moviles
+Movimientos tectonicos
+Interferencias piezo-electricas
+Error de usuario penoso 
+Esta trabajando tal y como fue fabricado
+Tabla dinamica de enlace de software corrupta
+Fluctuaciones fuertes de gravedad, ponga rapidamente su computador en el suelo
+La secretaria ha enchufado su secador en el SAI
+Actos terroristas
+Insuficiente memoria, vaya a por una actualizacion de sistema
+Error de configuracion en interrupcion
+El cable trenzado causo fallos en los paquetes
+El jefe se olvido de la clave del sistema
+El banco esta de vacaciones, los creditos del sistema operativo no han sido recargados
+Infeccion virica, usuario penoso responsable
+Desbordamiento de deposito de aguas residuales sobre el computador
+Cierre completo temporal
+Señales Vogonas
+Cambio en la velocidad de rotacion de la tierra
+Particulas de rayos cosmicos han chocado contra la pletina de discos duros
+El olor del antihigienico personal de conserjeria ha arruinado los cabezales de las cintas
+Unos perros diabolicos han hipnotizado al cambio de turno de noche
+El fontanero ha confundido el panel de enrutadores con un accesorio decorativo de pared
+Los electricistas han hecho palomitas en el generador
+Alta presion, error de sistema
+Ensayos fallidos, el sistema necesita ser rediseñado
+El sistema ha sido reiniciado
+No aprobado por la FCC
+Es necesario envolver el sistema en papel de aluminio para solucionar el problema.
+Incorrectamente conectado a la toma de tierra, por favor entierre la computadora
+La CPU necesita ser recalibrada
+El sistema necesita ser reiniciado.
+Desbordamiento del bidon de bits
+Es necesario un batiburrillo de codigo por parte de la compañia de software.
+Solo disponible en caso de saber BASE
+Un nudo en los cables produjo que el flujo de datos se retorciera y estrujase
+Unas cucarachas que han anidado en el servidor han acortado el cable de red
+El sistema de ficheros esta lleno de ficheros
+Satan lo hizo
+Los demonios lo hicieron
+El nuevo lo hizo
+Ha sido el becario
+Yo no he sido
+Te has quedado sin memoria
+No hay ningun problema
+Disco duro no optimizado
+Error tipografico en el codigo
+Si, si, se llama limitacion de diseño
+Mira, tio: Windows Vista ES un Error de Proteccion General
+Vaya pedazo de maquina que tienes ahi; te imaginas como funcionaria como sistema BSD?
+Por favor disculpeme, tengo un cable de corriente pasando por mi cabeza para mantener funcionado la base de datos.
+Ya, tu mama te viste ridiculo y ya necesitas un raton para borrar los ficheros...
+El personal de Soporte esta caido, mande una aspirina y vuelva MAS TARDE
+Alguien esta pisando sobre el cable de red, causando un embrollo en la red
+"Caracteristica" no documentada de Windows Vista
+Contraseña demasiado compleja para desencriptarla
+El hijo del jefe ha jodido la maquina
+Perdida de energia electromegnetica
+Recorte presupuestario
+El raton ha roido el cable de la luz.
+El manejador de ficheros esta rancio (la proxima vez, use un Tupperware(tm)!)
+Caracteristica aun no implementada
+Internet interrumpida
+Internet Caida
+Bug del Pentium FDIV
+El fabricante ya no da soporte para el producto
+Un animalillo suicida ataco los generadores
+El fabricante puso el bug ahi
+Interferencia en SIMM
+Salida de IRQ bizarra
+Backbone colapsado
+La compañia electrica ha estado probando equipos con un nuevo pico de voltaje. 
+Operadores en huelga hasta que reparen la maquina de cafe
+Cintas de Backup sobreescritas con una copia del CD favorito del Administrador
+El SAI ha interrumpido la electricidad del servidor
+Los electricistas no sabian que era el cable amarillo, asi que mandaron la red a la porra
+El teclado no esta conectado
+La tuberia de suministro de agua del aire acondicionado se ha roto sobre la sala de maquinas
+La subestacion electrica del parking se ha quemado
+El concierto "On the Road" de los Rolling Stones ha provocado una estampida
+El comercial ha atropellado la placa base
+El monitor esta conectado a un puerto serie
+Los servidores de nombres principales estan desincronizados
+Pulsos electromagneticos provocados por una prueba nuclear subterranea de los franceses
+La tecla espacio de tu teclado esta produciendo claves de codigo estimulantes
+Los terminales reales se han convertido en pseudo-terminales y viceversa
+La impresora cree que es un router
+El router cree que es una impresora
+Hackers malignos serbios
+¡El Hacker Turco de los cojones...!
+Acabamos de cambiar a Fibra Optica
+Una fuga de gas halon del sistema antiincendios ha matado a los operadores
+Como Bill Gates es testigo de Jehovah, nadie puede trabajar el dia de San Quintin
+El cociente entre usuario y computador es demasiado alto
+El cociente entre usuario y computador es demasiado bajo
+Acabamos de cambiarnos a Sprint
+Es un Intel Inside, que esperabas??
+Bits Sticky en el disco
+La compañia de electricidad tiene problemas de impulsos electromagneticos en su reactor
+Nueva direccion, ya no trabajamos aqui
+Telnet: imposible conectar al servidor remoto: Conexion rechazada
+Cadena SCSI sobreterminada
+No esta conectado
+Hay retrasos en la red porque hay mucha gente jugando al Unreal
+Has puesto el disco con la cara de arriba hacia abajo
+Demonios flojos en el sistema
+El usuario ha estado distribuyendo pornografia en el servidor; sistema monitorizado por el CESID
+CNC (cerebro no conectado)
+CUNC (cerebro del usuario no conectado)
+CUPNC (cerebro del usuario penoso no conectado)
+Los discos estan girando al reves - cambie el conmutador de hemisferio
+El chico nuevo de las redes ha cruzado los cables de telefono con la linea de corriente alterna
+Ha sido necesario un martillo para despegar los cabezales del disco duro
+Muy pocos computrones disponibles
+El tren que transportaba las cintas ha pinchado ("Nunca subestimes el ancho de banda de una estacion de tren llena de cintas rodando por la calle" Andrew S. Tanenbaum)
+El satelite de comunicaciones esta siendo usado por los militares para la "guerra de las galaxias"
+Fiesta de bugs en el protocolo Aloha
+Inserte una moneda para jugar
+Vaho en las lineas de telefono
+El archiservidor ha golpeado el servidor de nuevo
+Alguien ha pinchado la linea de energia, así que ha habido que levantar el enchufe del switch.
+Mi coleta ha presionado el boton de apagado de la instalacion electrica
+Puedes ajustar un sistema de ficheros, pero no puedes ajustar un pez (extraido de la mayoria de paginas de man para tunefs)
+Terminal tonto
+Procesos Zombi poseyendo el ordenador
+Sincronizacion temporal incorrecta
+Procesos Difuntos
+Procesos Obstinados
+Fallo del ventilador no-redundante
+Escapada del monitor VLF
+Bichos en el RAID
+Su teclado no tiene tecla "any key"
+Raiz podrida
+Escoliosis en el Backbone
+/pub/lunch
+Excesivas colisiones e insuficientes ambulancias de paquetes
+le0: carrier no detectado: problema en el cable del transmisor-receptor?
+Paquetes de broadcast en frecuencia incorrecta.
+La palomitera es incapaz de procesar kernel gigante
+AVISO: alloc: /dev/null: sistema de ficheros lleno
+Pseudo-usuario en pseudo-terminal
+Transversal recursivo en puntos de montaje de loopback
+Ajustes del Backbone
+SO compartido al disco
+Vapores de adhesivo de notas adhesivas evaporado
+Remiendos varios
+Pata coja en la mesa de procesos
+Multicast en paquetes rotos
+Insuficiente éter
+Jabba el Hub
+Recalibrado endotermico
+Sistema de fichero insuficientemente grande para parche de kernel extra-grande
+Bucle encontrado en bucle de retorno redundante
+El sistema ha consumido todo el papel para paginar
+Permiso denegado
+Reformateando pagina, espere...
+El disco o el procesador esta en llamas
+SCSI's demasiado anchos
+Informacion Propietaria
+Solo teclea 'mv * /dev/null' 
+Gato suelto en el sistema
+Has pagado la nueva Tarifa de Soporte??
+Solo soportamos una conexion de 1200 bps
+Solo soportamos una conexion de 28000 bps
+Mi no Internet, solo conserje, mi encerar suelos.
+Me temo que un Pentium no puede hacerlo, necesitas un SGI para conectar con nosotros
+Pelusillas pegadas a un post-it se ha colado en el monitor
+Los rizos del cable de tu teclado estan perdiendo electricidad
+El monitor necesita otra caja de pixels
+RPC_PMAP_FAILURE
+kernel panic: capacidad de memoria de solo escritura (/dev/wom0) excedida
+Subsistema de solo escritura demasiado lento para esta maquina. Contacte con su proveedor local
+Simplemente coge el telefono y haz sonidos de modem. "Bueno, dijiste que deberiamos hacernos con mas lineas porque no teniamos lineas de voz"
+La dinamica quantica esta afectando a los transmisores
+La Policia esta examinando todos los paquetes de Internet en busca de una Red de Narcotraficantes
+Estamos intentando el concepto de usar un ratón vivo. Desafortuandamente, uno tiene que sobrevivir a ser enganchado al computador... comprendenos
+Su correo esta siendo enrutado por Alemania... y ellos lo estan censurando...
+Solo la gente cuyos nombres comiencen por 'A' tendran correo esta semana.
+No pagamos la cuota de Internet y nos la han cortado.
+Rayos y centellas
+Claro que no funciona, hemos hecho una actualizacion de software.
+Cambie su lenguaje a fines
+Los tubos fluorescentes estan generando iones negativos. Si apagarlos no soluciona el problema, ponga papel de aluminio en los extremos.
+Alta actividad nuclear en su area
+En que oficina estas? A, en esa!! Sabes que el edificio esta construido sobre el primer centro de investigaciones nucleares de la universidad? Y guau, que afortunado! tu oficina esta justo encima de donde enterraron el nucleo!
+Los MG se han quedado sin gas
+Los SAI no tienen bateria de repuesto
+Recursividad. Llama si te pasa otra vez
+Alguien penso que el Gran Boton Rojo era el interruptor de la luz.
+El Mainframe necesita descansar. Se esta haciendo viejo, ya sabes.
+No estoy seguro. Prueba a llamar a la oficina central de Internet -- esta en el manual.
+Todas las lineas estan ocupadas (desocupadas, o sea --  porque alguien le dejo hablar?)
+Jan  9 16:41:27 huber su: 'su root' succeeded for .... on /dev/pts/1
+Son los informaticos de [tu ciudad favorita]. Siempre jorobando las cosas
+Un satelite de la guerra de las galaxias accidentalmente se ha cargado nuestra WAN
+Error Fatal frente al monitor
+La funcion no esta actualmente soportada, pero Bill Gates nos ha asegurado que se presentara en la proxima actualizacion.
+Polaridad incorrecta en el flujo de neutrones
+La curva de aprendizaje de los usuarios parece un fractal
+Tenemos que apagar el servicio para complacer al jefe Bill
+Ionizacion por el aire acondicionado
+El umbral de alerta TCP/IP UDP esta indicado ajustado muy bajo
+Alguien esta distribuyendo paquetes pigmeos y el router no sabe que hacer con ellos-
+La nueva red de ventana de relay aun no ha acostado al sotware de transmision de bucles.
+Ventilador tirando demasiado voltaje, prueba a cortar esos pequeños hilos.
+Placa de voltaje demasiado baja en el tubo demodulador.
+¿Que hiciste que...? Oh, tio...
+La CPU necesita reempaquetar los cojinetes
+Pines demasiado pequeños en la CPU la estan confundiendo. Muevelos hacia atras hacia adelante hasta que hayas quitado el 10 o el 20%. No dejes ni uno!!
+El software utliza medidas anglosajones, pero el SO esta en metrico...
+El ordenador ha naufragado, raton y todo.
+Tu gato ha intentado comerse el raton
+Los Vogones han intentado asimilar tu sistema. La resistencia es inutil
+Debe de haber sido la tormenta electrica de (ayer) (la semana pasada) (el mes pasado)
+Debido a problemas del presupuesto federal nos hemos visto obligados a recortar el numero de usuarios que pueden conectarse al sistema al mismo tiempo (no se pueden decir nombres...)
+Hay un demonio khandariano suelto en el CPD.
+Demasiada radiacion proveniente del suelo
+Desafortunadamente nos hemos quedado sin bits/bytes/lo que sea. Pero no te preocupes, el proximo suministro llegara la semana que viene
+El programa es demasiado pesado para que el procesador lo levante
+Procesos corriendo lentos debido a un generador debil
+Nuestro ISP esta teniendo problemas de {switching,routing,SMDS,frame relay}
+Nos hemos quedado sin licencias
+Interferencias por radiacion lunar
+Sala de espera solo para el bus
+Necesitas instalar un interfaz RTFM
+Debe de ser porque el software no funciona
+Es facil de arreglar, pero no puedo ser molestado...
+La corbata de alguien se ha quedado pillada en la impresora. Si algo mas es impreso, el estara tambien pillado dentro.
+Estamos actualizando /dev/null
+Las noticias de Usenet estan caducadas
+Nuestro servidor POP ha sido secuestrado por una comadreja
+Esta pegado en la Web
+Tu modem no habla inglés
+El raton ha escapado
+Todos los paquetes estan vacios
+El SAI esta en huelga
+Sobrecarga de neutrinos en el servidor de nombres
+Fusion en los discos duros
+Alguien ha mezclado los punteros del kernel
+La licencia del kernel ha expirado
+Netscape ha petado
+El cable ha saltado y le ha dado al boton de apagado
+Estaba BIEN hasta que tu lo tocaste
+Bit podrido
+Correos y Telegrafos
+Tu condensador de fluzo se ha vuelto malo
+Los cristales de Dilitio tienen que ser rotados
+El enrutado de electricidad estatica esta funcionando
+El tracert dice que hay un problema en el enrutado del Backbone. No es problema nuestro
+El co-localizador no puede verificar la puerta de enlace del frame-relay hacia el servidor ISDN
+Condensacion a alta altura producida por el Eurofighter ha contaminado la mascara de subred primaria. Apaga tu ordenador por al menos 9 dias para evitar dañarlo.
+La cuchilla cortacesped de tu ventilador necesita afilado
+Electrones en un doblador
+Las Telecomunicaciones se estan actualizando
+Las Telecomunicaciones se estan desactualizando
+Las Telecomunicaciones se estan cayendo
+El servidor se ha caido. Lo estamos llevando a Urgencias.
+El Disco duro esta durmiendo. Dejale que se levante cuando quiera...
+Interferencias entre el teclado y la silla
+La CPU ha cambiado de puesto, y se ha descentralizado
+A causa del jefe, ya no tenemos contraseña de administrador
+Nos quedamos sin tono de llamada y estamos esperando que la compañia de telefono nos mande otra botella.
+Debes haber pulsado la "any-key" incorrecta.
+Driver PCMCIA escalvo
+El token se ha caido del ring. Llamanos cuando lo encuentres
+El bus de hardware necesita un nuevo simbolo
+Demasiadas interrupciones
+Insuficientes interrupciones
+Los datos de tu disco duro estan descompensados
+El Manipulador Digital esta excediendo los parametros de velocidad
+Parece ser un problema de interfaces SCSI lentas/estrechas
+El espacio curvo microelectronico de Riemannian ha afectado al sistema de ficheros de solo escritura.
+Radiacion fractal interfiriendo en el backbone
+Problemas de enrutado en la red neuronal
+Conflicto de IRQ con el Sistema-de-Alimentacion-Ininterrumpida
+El angulo de la CPU debe ser ajustado, a causa de las vibraciones d euna carretera cercana
+Emisiones de telefonos GSM/GPRS/3G
+El CDROM necesita ser recalibrado
+El Cortafuegos necesita refrigeracion
+Fallo en inodo asincrono
+Violacion transitoria de protocolo de bus
+Operadores de registro de bit incompatibles
+Tu proceso no cumple el estandar ISO 9000
+Tienes que actualizar tu bus local VESA a un bus local MasterCard
+Reciente proliferacion de pruebas nucleares
+Elfos en huelga (por que lo llaman EMAG Elf Magic??)
+Internet tiene demasiados usuarios penosos conectados, por favor, espere a que algunos se desconecten antes de intentarlo de nuevo.
+Su email esta siendo enviado por Correos y Telegrafos
+Tu ordenador no esta devolviendo todos los bits que recibe de Internet
+Has sido infectado por el virus del Telescopio Espacial Hubble
+Interrupcion de las Programaciones globales de CPU
+Tu Pentium tiene un problema de calentamiento - Prueba a enfriarlo con agua helada (No lo apagues, no querras enfriarlo cuando no este trabajando, no?)
+Tu procesador ha procesado demasiadas instrucciones. Apagalo inmediatamente, no escribas mas comandos!!
+Tus paquetes han sido devorados por el terminador
+Tu procesador no genera suficiente calor
+Necesitamos un electricista para cambiar las bombillas de la Sala de Operaciones
+El servidor POP se ha quedado sin Coca Cola
+La Fibra optica ha causado falta de gas
+El servidor esta deprimido, necesita Prozak
+Incoherencia quantica
+¡Mardito roedoree!
+Experiencia de enrutado suboptima
+Necesitamos un fontanero, el flujo de red esta bloqueado
+La mitad del manual esta en ficheros LEEME en .pdf
+La bateria AA del reloj de pared envia señaes de interferencia
+El axis xy del raton esta coordinado con el solsticio de verano
+El infiernillo de butano esta causando desamortiguacion
+Los cartuchos de tinta viejos emanan vapores basados en el bario
+Administrador en el conducto de cableado
+Bueno, lo arreglaremos en la proxima (actualizacion, parche, liberacion, service pack)
+HTTPD Error 666 : El BOFH estuvo aqui
+HTTPD Error 4004 : CPU Intel demasiado vieja - sin pode de procesamiento suficiente
+La placa ATM se ha quedado sin billetes de 10 euros. Estamos haciendo una colecta para rellenarla, quieres colaborar??
+Fallo de Red - Llame a TVE
+Estamos colocando el satelite a mano
+Tu equipo ha sufrido una falta de memoria. y estamos esperando a que esta suba.
+La tira de goma se ha roto
+Particulas Alfa parasitarias del paquete de memoria han causado un error en la memoria base del servidor
+Problemas entre el teclado y la silla
+Los cables no son de la misma longitud
+Efectos secundarios
+Chicle en /dev/sdc3
+Aburrimiento en el Kernel
+Los demonios! Los demonios! Los terribles demonios!
+Me encantaria ayudarte, pero es que el jefe no me deja acercarme al ordenador
+Golpeado por el virus Buenos Tiempos
+Tienes un I/O error-> Operador Incompetente
+Tu chequeo de paridad esta sobredimensionado y te has quedado sin cache
+Revolucionarios comunistas toman la sala de servidores y reclaman todas las maquinas del edificio o dispararan al administrador de sistemas. Pobres idiotas desinformados...
+Brecha en el conducto de plasma
+Sin tarjetas en unidad D:
+Pulgas de arena devorando los cables de Internet
+Los procesadores paralelos hoy trabajan en perpendicular
+La celula ATM no tiene la caracteristica de Roaming activada. Los portatiles no pueden conectar
+Los webmasters han sido captados por una secta satanica
+Virus transmitido de la computadora a los administradores
+Virus debido a sexo sin proteccion entre las computadoras
+Rutas estaticas incorrectamente configuradas en el nucleo de enrutadores.
+Operadores forzados a dar soporte a servidores NT, los administradores se han librado.
+Puntero sospechoso corrompe la maquina virtual
+Es un error de Internic
+Raiz de los servidores de nombres podridas
+Recortes presupuestarios nos han obligado a vender los cables de luz de los servidores
+Alguien ha enganchado el par trenzado en el contestador
+Operadores asesinados por un mordisco del bug Efecto 2000
+Hemos escogido COBOL como el lenguaje de eleccion
+Los operadores han muerto al caerse sobre ellos una caja repleta de cintas de backup
+El robot de cintas confundio la corbata de un operador con una cinta de backup
+Alguien estuvo fumando en la sala de ordenadores y salto el dispositivo de halon antiincendios
+Tu procesador se ha marcado un viaje a las Puertas del Cielo en un OVNI tras el Cometa Hale-Bopp
+Mensajes encriptados desde el sector Zeta Retículi.
+Dislexicos reescribiendo los archivos de hosts en los servidores
+Internet esta siendo escaneada en busca de virus
+El contrato de matrimonio de tu ordenador va a expirar a medianoche
+Karma de usuario malo
+/dev/clue fue enlazado a /dev/null
+Incremento de actividad en las manchas solares
+Ya hemos mandado una circular avisando sobre esto
+Las reglas del matrimonio. No hay nada que podamos hacer. Lo siento.
+Interferencias del cinturon de Van Allen
+Jupiter se ha alineado con Marte
+ACLs redundantes
+EL servidor de correo ha sido golpeado por UniSpammer
+T-1 congestionada debido a trafico de porno en el servidor de noticias
+La informacion de la Intranet se ha enrutado a la Extranet y ha aterrizado en Internet
+Somos una tienda 100% Microsoft
+Somos Microsoft. Lo que experimentas no es un problema, es una caracteristica no documentada.
+El comercial vendio un producto que no ofertamos
+La secretaria envio un correo en cadena a los 5000 empleados
+El administrador no oyo que el paginador se estropeo debido a la potente musica de los altavoces del bar.
+El administrador accidentalmente destruyo el paginador con un gran martillo
+Los administradores no estan disponibles porque estan en una reunion hablando sobre porque no estan disponibles tanto tiempo
+Comida en mal estado de la cafeteria ha mandado a todos los administradores al hospital
+Flipada de enrutado en el NAP
+Computadoras bajo el agua debido a inundacion del SYN
+El ping del apreton-volvanico-delamuerte ha sido aplicado
+Los cables electricos de la sala de maquinas se estan fundiendo
+Atasco en la SuperAutopista de la Informacion
+Infiltracion de Telemetria Radial
+Emisiones de taquion sobrecargando el sistema
+Ventana de mantenimiento rota
+Estamos sin slots en el servidor
+Mudanza de la sala de maquinas. Estaremos caidos el fin de semana
+Administradores ocupados combatiendo el SPAM
+Repetidos reinicios del sistema no han solucionado el problema
+La caracteristica no ha tenido beta-test
+Registrador de dominio no responde
+Alguien ha robado tu IP. Llama a los detectives de Internet!!
+No cumple con el estandar RFC-822
+La operacion a fallado: no hay mensaje para este error (#1014)
+Recibido bit de parada 
+Red caida, paquetes IP se enviaran por Correos y Telegrafos
+Actualizacion de firmware en la maquina de cafe
+Anomalia temporal
+El raton devolvio el error sin-queso
+Los implantes ciberneticos estan fallando
+Nano-cyborgs han infestado el servidor
+Error: usuario malo encontrado frente al monitor
+Por favor, establezca la naturaleza de la emergencia tecnica
+Internet apagado por mantenimiento
+El demonio ha escapado del pentaculo
+Pierde mucho con la traduccion
+Los bits pegajosos se han quedado flojos
+Hot Java se ha enfriado
+Fallo de Cache - Mejor punteria la proxima vez
+La tabla de hashes tiene termitas
+El Caballo de Troya se ha quedado sin heno
+Procesos Zombie detectados, la maquina esta poseida
+Error de desbordamiento en /dev/null
+El demonio de correo esta ocupado quemando tu mensaje en el infierno
+Segun Microsoft, es por diseño
+Vi necesita actualizarse a Vii
+Los terroristas han estrellado un avion en la sala de servidores, ha habido que borrar /bin/laden (rm -rf /bin/laden)
+Oscilaciones astropneumaticas en el refrigerador de agua
+Alguien ha pasado el Sistema operativo por traves de un corrector ortografico
+Variaciones ritmicas en el voltaje alcanzando el generador
+Fallo en el operador del teclado. Compre uno y cambielo
+Sobrecarga de forlayos en el deprecador
+Desequilibrio en el reactor forlayano de la junta de la trocola
+Si no hay mimitos, no hay soporte
+En este momento no hay tecnicos disponibles, subales el sueldo para aumentar su disponibilidad
+Las lineas permanecen ocupadas, por favor mantengase a la espera
+Tamparampam que te han visto Pepe, tamparampam que te han visto Juan
+Es una pregunta tan buena que es la misma que se estaba haciendo el Administrador antes de ser tragado por el robot de cintas
+No, nosotros no llevamos nada de eso.
+Pues eso pinta mal, eh? Yo que tu, apagaba el ordenador no sea que te hagas pupa
+Como? No, esto no es la Sala de Procesos. Esto es fruteria Manolo
+No disponemos de los datos que nos consulta. Por favor, cambie los parametros de busqueda e intentelo de nuevo
+El FTP se ha colgado con la faja SCSI cuando se ha enterado de que iban a enviar un fichero de 5 Tb
+El que administra no esta, y el que esta no administra
+El que da soporte no esta, y el que esta no da soporte
+Como? que tenemos uno de esos?
+El tecnico de soporte al que llama esta apagado o fuera de cobertura en este momento
+Ya bueno, todos tenemos días malos...
+Y yo cuando era chico tenia una bici amarilla. Que por que le cuento esto? bueno, como usted me esta contando su vida
+Ya no nos dedicamos al hosting. Ahora plantamos geranios en invernadero
+El operador se ha colgado. Por favor, llame a un juez y traiga una escalera
+Nucleos descentralizados. Nueva politica de empresa
+Kernel Panic: el sistema no tiene recursos suficientes para pagar la hipoteca
+Si, por supuesto. Ahora mismo compruebo las maquinas, con mi ordenador invisible
+Esto es Soporte, no el gabinete de Rappel
+Cambio de personalidad Fiscal del ADSL a ADSA
+Eso nunca ha funcionado
+Podria funcionar, si alguien quisiera que funcionase
+Podria arreglarlo, pero no me pagan lo suficiente
+Usted lo ha dicho: TIENE una incidencia, a nosotros nos funciona perfectamente
+El programador es un hijo de puta
+El programador es un cachondo mental
+El equipo de Desarrollo se esta encargando de su incidencia
+Un troyano ha intentado saltarse el firewall, pero le hemos detenido echandole aceite hirviendo
+El proceso ha entrado en un bucle infinito
+Su insistencia solo hace que la incidencia se alargue en el tiempo
+¿Manolo soldador de nucleo? amos no me jodas...
+Error de conversion de Big Endian a Little Endian
+Error de conversion de Little Endian a Big Endian
+El hamster que mueve los ventiladores ha sufrido un infarto mientras corria en su rueda.
+Microcortes
+Sobrecarga en los balanceadores
+Los switches Alteon, que son así de simpaticos
+La cookie del navegador esta corrupta. Alguien debe estar mordisqueándola.
+Si no sabes usarlo, no me eches la culpa a mi!!
+Lo siento, usted no es cliente nuestro
+Aplicacion de rafagas de forlayos en la junta de la trocola. Mantenimiento de rutina.
+Servidores? Yo mismo, servidor de usted en lo que guste mandar!
+Ha probado a apagar y volvero a encender?
+En mi vida había oido cosa semejante.
+A los demas les funciona. Si a usted no, es cosa suya.
+Los discos duros de alta velocidad se han descuajaringado debido a resonancias.
+ERROR - No more porno on Internet
