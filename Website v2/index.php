@@ -32,6 +32,7 @@
 				<h4>"
 				<?php
 				error_reporting( E_ALL );
+				$all_good = "true";
 				if (!file_exists("part1.txt")) {echo "File part1.txt does not exist";$all_good = 'false';} 
 				if (!file_exists("part2.txt")) {echo "File part2.txt does not exist";$all_good = 'false';} 
 				if (!file_exists("part3.txt")) {echo "File part3.txt does not exist";$all_good = 'false';} 
