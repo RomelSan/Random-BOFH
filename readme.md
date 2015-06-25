@@ -1,8 +1,8 @@
-# Random BOFH Excuse 2015 
-Random Bastard Operator From Hell (BOFH) excuse maker!
-For PHP.
-Use this on your 404 error pages.
-Online Demo v1 [Link](https://www.logicminds.net/GitHub/bofh/Website%20v1/)
+# Random BOFH Excuse 2015  
+Random Bastard Operator From Hell (BOFH) excuse maker!  
+For PHP.  
+Use this on your 404 error pages.  
+Online Demo v1 [Link](https://www.logicminds.net/GitHub/bofh/Website%20v1/)  
 Online Demo v2 [Link](https://www.logicminds.net/GitHub/bofh/Website%20v2/)
 
 #### Features
@@ -18,7 +18,7 @@ Download it, then upload to your web server, and navigate to index.php.
 * BootStrap template from Bootsnipp by BhaumikPatel [Link](http://bootsnipp.com/snippets/featured/simple-404-not-found-page)
 
 ### Tested on:
-PHP v5.5.9
+PHP v5.5.9  
 Apache v2.4.7
 
 ### Credits
