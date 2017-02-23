@@ -52,8 +52,8 @@
 				"</h4>
                 </div>
                 <div class="error-actions">
-                    <a href="http://www.logicminds.net" class="btn btn-primary btn-lg"><span class="glyphicon glyphicon-home"></span>
-                        Take Me Home </a><a href="http://www.logicminds.net" class="btn btn-default btn-lg"><span class="glyphicon glyphicon-envelope"></span> Contact Support </a>
+                    <a href="http://www.romelvera.com" class="btn btn-primary btn-lg"><span class="glyphicon glyphicon-home"></span>
+                        Take Me Home </a><a href="http://www.romelvera.com" class="btn btn-default btn-lg"><span class="glyphicon glyphicon-envelope"></span> Contact Support </a>
 						<br><a href="<?php $_SERVER['PHP_SELF']; ?>">another excuse</a>
                 </div>
             </div>
