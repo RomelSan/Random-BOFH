@@ -1,9 +1,9 @@
 # Random BOFH Excuse 2015  
 Random Bastard Operator From Hell (BOFH) excuse maker!  
-For PHP.  
+For PHP 5.x  
 Use this on your 404 error pages.  
-Online Demo v1 [Link](https://www.logicminds.net/GitHub/bofh/Website%20v1/)  
-Online Demo v2 [Link](https://www.logicminds.net/GitHub/bofh/Website%20v2/)
+Online Demo v1 [Link](https://www.romelvera.com/github/bofh/Website%20v1/)  
+Online Demo v2 [Link](https://www.romelvera.com/github/bofh/Website%20v2/)
 
 #### Features
 - [x] Website version 1 gets a random sentence from the file "excuses.txt"
